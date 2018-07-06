@@ -1,0 +1,13 @@
+C:\Dev\Repos\HelloRepository\InitialWebAPI\GitWebApplication\DataLayer\bin\Debug\DataLayer.dll.config
+C:\Dev\Repos\HelloRepository\InitialWebAPI\GitWebApplication\DataLayer\bin\Debug\DataLayer.dll
+C:\Dev\Repos\HelloRepository\InitialWebAPI\GitWebApplication\DataLayer\bin\Debug\DataLayer.pdb
+C:\Dev\Repos\HelloRepository\InitialWebAPI\GitWebApplication\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+C:\Dev\Repos\HelloRepository\InitialWebAPI\GitWebApplication\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Dev\Repos\HelloRepository\InitialWebAPI\GitWebApplication\DataLayer\obj\Debug\DataLayer.dll
+C:\Dev\Repos\HelloRepository\InitialWebAPI\GitWebApplication\DataLayer\obj\Debug\DataLayer.pdb
+C:\Dev\Repos\EVESite_exploration\GitWebApplication\DataLayer\bin\Debug\DataLayer.dll.config
+C:\Dev\Repos\EVESite_exploration\GitWebApplication\DataLayer\bin\Debug\DataLayer.dll
+C:\Dev\Repos\EVESite_exploration\GitWebApplication\DataLayer\bin\Debug\DataLayer.pdb
+C:\Dev\Repos\EVESite_exploration\GitWebApplication\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Dev\Repos\EVESite_exploration\GitWebApplication\DataLayer\obj\Debug\DataLayer.dll
+C:\Dev\Repos\EVESite_exploration\GitWebApplication\DataLayer\obj\Debug\DataLayer.pdb
