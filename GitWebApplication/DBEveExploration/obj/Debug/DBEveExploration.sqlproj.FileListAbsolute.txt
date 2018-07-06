@@ -1,0 +1,6 @@
+C:\Dev\Repos\EVESite_exploration\GitWebApplication\DBEveExploration\bin\Debug\DBEveExploration.dacpac
+C:\Dev\Repos\EVESite_exploration\GitWebApplication\DBEveExploration\bin\Debug\DBEveExploration.dll
+C:\Dev\Repos\EVESite_exploration\GitWebApplication\DBEveExploration\bin\Debug\DBEveExploration.pdb
+C:\Dev\Repos\EVESite_exploration\GitWebApplication\DBEveExploration\obj\Debug\DBEveExploration.sqlprojAssemblyReference.cache
+C:\Dev\Repos\EVESite_exploration\GitWebApplication\DBEveExploration\obj\Debug\DBEveExploration.dll
+C:\Dev\Repos\EVESite_exploration\GitWebApplication\DBEveExploration\obj\Debug\DBEveExploration.pdb
