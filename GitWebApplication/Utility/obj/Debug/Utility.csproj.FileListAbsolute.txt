@@ -19,3 +19,4 @@ C:\Dev\Repos\EVESite_exploration\GitWebApplication\Utility\obj\Debug\Utility.csp
 C:\Dev\Repos\EVESite_exploration\GitWebApplication\Utility\obj\Debug\Utility.csproj.CopyComplete
 C:\Dev\Repos\EVESite_exploration\GitWebApplication\Utility\obj\Debug\Utility.dll
 C:\Dev\Repos\EVESite_exploration\GitWebApplication\Utility\obj\Debug\Utility.pdb
+C:\Dev\Repos\EVESite_exploration\GitWebApplication\Utility\obj\Debug\Utility.csprojAssemblyReference.cache

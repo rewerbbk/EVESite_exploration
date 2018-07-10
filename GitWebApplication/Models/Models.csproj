@@ -40,6 +40,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="GenericJson.cs" />
+    <Compile Include="PlayerSkill.cs" />
+    <Compile Include="PlayerSkills.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Microsoft.CSharp" />

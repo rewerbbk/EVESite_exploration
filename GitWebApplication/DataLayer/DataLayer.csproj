@@ -39,10 +39,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Helpers\MapIntListToIntTableType.cs" />
+    <Compile Include="Interfaces\IAllSkills.cs" />
+    <Compile Include="Interfaces\IPlayerSkills.cs" />
+    <Compile Include="Player\PlayerSkills.cs" />
+    <Compile Include="System\AllSkills.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Data" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

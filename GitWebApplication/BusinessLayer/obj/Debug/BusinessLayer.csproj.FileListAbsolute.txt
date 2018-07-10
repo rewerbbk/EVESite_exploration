@@ -21,3 +21,7 @@ C:\Dev\Repos\EVESite_exploration\GitWebApplication\BusinessLayer\obj\Debug\Busin
 C:\Dev\Repos\EVESite_exploration\GitWebApplication\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
 C:\Dev\Repos\EVESite_exploration\GitWebApplication\BusinessLayer\obj\Debug\BusinessLayer.dll
 C:\Dev\Repos\EVESite_exploration\GitWebApplication\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Dev\Repos\EVESite_exploration\GitWebApplication\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Dev\Repos\EVESite_exploration\GitWebApplication\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Dev\Repos\EVESite_exploration\GitWebApplication\BusinessLayer\bin\Debug\DataLayer.dll.config
+C:\Dev\Repos\EVESite_exploration\GitWebApplication\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache

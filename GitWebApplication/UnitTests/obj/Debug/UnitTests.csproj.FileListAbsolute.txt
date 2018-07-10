@@ -62,3 +62,6 @@ C:\Dev\Repos\EVESite_exploration\GitWebApplication\UnitTests\obj\Debug\UnitTests
 C:\Dev\Repos\EVESite_exploration\GitWebApplication\UnitTests\obj\Debug\UnitTests.csproj.CopyComplete
 C:\Dev\Repos\EVESite_exploration\GitWebApplication\UnitTests\obj\Debug\UnitTests.dll
 C:\Dev\Repos\EVESite_exploration\GitWebApplication\UnitTests\obj\Debug\UnitTests.pdb
+C:\Dev\Repos\EVESite_exploration\GitWebApplication\UnitTests\bin\Debug\DataLayer.dll
+C:\Dev\Repos\EVESite_exploration\GitWebApplication\UnitTests\bin\Debug\DataLayer.pdb
+C:\Dev\Repos\EVESite_exploration\GitWebApplication\UnitTests\bin\Debug\DataLayer.dll.config
